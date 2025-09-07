@@ -24,6 +24,7 @@ You provide a **topic** and **language**, and the AI creates a polished **2–4 
 
 ## 📂 Project Structure
 ├── linkedin_post.py # Main script for generating LinkedIn posts
+
 ├── requirements.txt # Python dependencies
 └── README.md # Documentation
 
